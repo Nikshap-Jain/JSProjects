@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 50px;
+    margin-left: 30px;
+
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 500px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 530px;
+}
+
+#first{
+    background-color: gray;
+}
+
+#second{
+    background-color: rgb(206, 92, 92);
+}
+
+#third{
+    background-color: rgb(117, 71, 160);
+}
+
+#fourth{
+    background-color: rgb(39, 53, 49);
+}
